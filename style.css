@@ -1,0 +1,23 @@
+body {
+  font-family: 'Yu Gothic', sans-serif;
+  text-align: center;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+header {
+  background-color: #ffe4c4;
+  padding: 20px;
+  border-bottom: 2px solid #d4a373;
+}
+
+main img {
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.8em;
+  color: #555;
+}
